@@ -1,11 +1,11 @@
 import './app.scss';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ModalContainer from "./components/ModalContainer"
+import Oddsmatcher from "./pages/Oddsmatcher"
 
 function App() {
   return (
     <div id="app">
-      <ModalContainer />
+      <Oddsmatcher />
     </div>
   );
 }

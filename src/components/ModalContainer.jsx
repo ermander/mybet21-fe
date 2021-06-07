@@ -6,7 +6,7 @@ import FiltersModal from "./FiltersModal"
 
 class ModalContainer extends Component {
   state={
-    showFilterModal: false
+    showFilterModal: false,
   }
 
   showFilterModal = () => {

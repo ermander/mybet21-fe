@@ -1,6 +1,5 @@
 import React from 'react'
-import ReactTable from "react-table-v6"
-import "react-table-v6/react-table.css"
+import ReactTable from "react-table"
 
 const DataTablePage = (props) => {
     const data = {
